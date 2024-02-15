@@ -3,6 +3,11 @@ title: LSPD
 sidebar_position: 1
 ---
 # Los Santos Police Department
+
+<div style={{textAlign: 'center'}}>
+  <img src="https://i.imgur.com/SiMlkUE.png" />
+</div>
+
 ### 1. Cumplimento de la normativa
 - 1.1. Todos los miembros de la facción deben conocer la normativa general del servidor y deben tenerla en consideración al momento de desenvolverse tanto dentro como fuera de servicio.
 
